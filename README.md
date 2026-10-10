@@ -214,7 +214,6 @@ pip install opencv-python numpy matplotlib jupyter
 jupyter notebook Number_plate_detection_FINAL.ipynb
 ```
 
-> 💡 The install line lists the typical packages for an OpenCV notebook — check the imports in the notebook's first cell for the exact list. You'll also need a vehicle image (or video) of your own to run the pipeline on.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:84CC16,100:0F172A&height=3&section=header"/></div>
 
@@ -249,7 +248,7 @@ jupyter notebook Number_plate_detection_FINAL.ipynb
 
 ### ⭐ If you found this project useful, consider giving it a star!
 
-<img src="https://komarev.com/ghpvc/?username=vehicle-number-plate-detection&label=Repo%20Views&color=84CC16&style=for-the-badge" alt="Repo Views" />
+
 
 <br/>
 
