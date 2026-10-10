@@ -80,8 +80,6 @@
 
 </div>
 
-> ℹ️ This is a computer-vision project that runs in a Jupyter notebook, not a hosted website — so there is no live demo. The preview above shows the repository itself.
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:84CC16,100:0F172A&height=3&section=header"/></div>
 
 ## 📖 About The Project
