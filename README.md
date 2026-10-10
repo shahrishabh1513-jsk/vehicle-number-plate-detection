@@ -73,9 +73,7 @@
 <img src="https://opengraph.githubassets.com/73e104ac9400255dfca288920e90e46c5d13373a4444c265e5d8b81f8a668229/shahrishabh1513-jsk/vehicle-number-plate-detection" width="85%" style="border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.25);"/>
 </a>
 
-<sub>👆 Click to open the repository</sub>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/shahrishabh1513-jsk/vehicle-number-plate-detection/blob/main/Vehicle_Number_Plate_Detection_Project_Report.pdf"><img src="https://img.shields.io/badge/📄_READ_THE_FULL_REPORT-84CC16?style=for-the-badge&logoColor=black"/></a>
 <a href="https://github.com/shahrishabh1513-jsk/vehicle-number-plate-detection/blob/main/Number_plate_detection_FINAL.ipynb"><img src="https://img.shields.io/badge/📒_OPEN_THE_NOTEBOOK-0F172A?style=for-the-badge&logo=jupyter&logoColor=84CC16"/></a>
