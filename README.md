@@ -24,7 +24,7 @@
 <a href="https://github.com/shahrishabh1513-jsk/vehicle-number-plate-detection/blob/main/Number_plate_detection_FINAL.ipynb"><img src="https://img.shields.io/badge/📒_NOTEBOOK-Open_Source_Code-0F172A?style=for-the-badge&logo=jupyter&logoColor=84CC16"/></a>
 <a href="https://github.com/shahrishabh1513-jsk/vehicle-number-plate-detection"><img src="https://img.shields.io/badge/REPOSITORY-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=84CC16"/>
 <img src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=84CC16"/>
