@@ -225,7 +225,6 @@ jupyter notebook Number_plate_detection_FINAL.ipynb
 - [ ] 🔤 Read the plate text with OCR
 - [ ] 🎥 Run on live camera or video streams
 - [ ] 🌐 Wrap it in a simple web app
-- [ ] 📊 Benchmark accuracy on a larger set of images
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:84CC16&height=3&section=header"/></div>
 
