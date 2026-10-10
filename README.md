@@ -191,9 +191,9 @@ flowchart LR
 ```bash
 vehicle-number-plate-detection/
 │
-├── Number_plate_detection_FINAL.ipynb                  # Full source code (Jupyter notebook)
-├── Vehicle_Number_Plate_Detection_Project_Report.pdf   # Complete project report
-└── README.md                                           # Project documentation
+├── Number_plate_detection_FINAL.ipynb                 
+├── Vehicle_Number_Plate_Detection_Project_Report.pdf   
+└── README.md                                          
 ```
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:84CC16&height=3&section=header"/></div>
